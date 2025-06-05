@@ -31,7 +31,7 @@ Necessário digitar y quando necessario.
 ## Clonando repositorio
 **3° Comando**
 ```
-...... 
+cd /sdcard && git clone https://github.com/Matheusgamerss/YOR-BOT.git
 ```
 Espere carregar tudo
 
